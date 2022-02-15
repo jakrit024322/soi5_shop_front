@@ -4,7 +4,6 @@
 
 export const environment = {
   production: false,
-  serviceUrl:"https://express101-api-wasok.herokuapp.com"
 };
 
 /*
